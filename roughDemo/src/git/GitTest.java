@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hello hot-fix");
         System.out.println("master commit 合并注释写反了");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
