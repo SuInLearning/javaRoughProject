@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("hello 333333333333");
         System.out.println("hello git44444");
         System.out.println("hello hot-fix");
+        System.out.println("master commit 合并注释写反了");
     }
 }
